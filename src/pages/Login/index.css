@@ -1,0 +1,34 @@
+.banner {
+  position: relative;
+}
+
+.banner img {
+  height: 150px;
+}
+
+.banner .text-banner {
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  left: 0;
+  transform: translateY(-50%);
+  text-align: center;
+  font-size: 48px;
+  color: var(--color-primary);
+  font-weight: 400;
+}
+
+.login-form {
+  max-width: 500px;
+  margin: 90px auto;
+  background-color: #f2f2f2;
+  border: 1px solid #ddd;
+  padding: 20px;
+}
+.login-form-button {
+  width: 100%;
+}
+.login-item {
+  margin-bottom: 20px;
+  font-size: 14px;
+}

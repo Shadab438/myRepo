@@ -1,0 +1,8 @@
+.select-option-search {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.select-option-search > div {
+  margin: 3vh 3vh 3vh 0;
+}

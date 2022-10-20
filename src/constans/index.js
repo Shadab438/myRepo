@@ -1,0 +1,9 @@
+export const TELEPHONE_API_URL = "https://telephone-api.neoflies.com/api";
+export const TELEPHONE_API_LOGIN = "/auth/login";
+export const TELEPHONE_API_LOGOUT = "/auth/logout";
+export const TELEPHONE_CARD = "/cards";
+export const TELEPHONE_STORE = "/stores";
+export const TELEPHONE_ORDER = "/orders";
+export const TELEPHONE_STATISTICS = "/statistics";
+export const TELEPHONE_DISCOUNT = "/discount";
+export const TELEPHONE_PUBLISHERS = "/publishers";

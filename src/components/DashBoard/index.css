@@ -1,0 +1,9 @@
+@media (min-width: 576px) {
+  .chart-body {
+    max-width: 600px;
+  }
+}
+
+.chart-body {
+  text-align: center;
+}
